@@ -1,0 +1,117 @@
+{
+  "data": {
+    "design": [
+      {
+        "title": "Adobe Illustrator",
+        "os_mac": "adobeillustrator-mac",
+        "os_win": "adobeillustrator-windows",
+        "img": "/assets/img/logo-adobeillustrator"
+      },
+
+      {
+        "title": "After Effects",
+        "os_mac": "adobeaftereffects-mac",
+        "os_win": "adobeaftereffects-windows",
+        "img": "/assets/img/logo-adobeaftereffects"
+      },
+
+      {
+        "title": "Adobe InDesign",
+        "os_mac": "adobeindesign-mac",
+        "os_win": "adobeindesign-windows",
+        "img": "/assets/img/logo-adobeindesign"
+      },
+      {
+        "title": "Adobe InDesign",
+        "os_mac": "adobeindesign-mac",
+        "os_win": "adobeindesign-windows",
+        "img": "/assets/img/logo-adobeindesign"
+      },
+
+      {
+        "title": "Adobe Photoshop",
+        "os_mac": "adobephotoshop-mac",
+        "os_win": "adobephotoshop-windows",
+        "img": "/assets/img/logo-adobephotoshop"
+      },
+      {
+        "title": "Adobe XD",
+        "os_mac": "adobexd-mac",
+        "os_win": "adobexd-windows",
+        "img": "/assets/img/logo-adobexd"
+      },
+      {
+        "title": "Affinity Photo",
+        "os_mac": "affinityphoto-mac",
+        "os_win": "affinityphoto-windows",
+        "img": "/assets/img/logo-affinityphoto"
+      },
+      {
+        "title": "Figjam",
+        "os_mac": "figjam-mac",
+        "os_win": "figjam-windows",
+        "img": "/assets/img/logo-figjam"
+      },
+      {
+        "title": "Figma",
+        "os_mac": "figma-mac",
+        "os_win": "figma-windows",
+        "img": "/assets/img/logo-figma"
+      },
+      {
+        "title": "Framer",
+        "os_mac": "framer-mac",
+        "os_win": "framer-windows",
+        "img": "/assets/img/logo-framer"
+      },
+      {
+        "title": "Handoff",
+        "os_mac": "handoff-mac",
+        "os_win": "handoff-windows",
+        "img": "/assets/img/logo-handoff"
+      },
+      {
+        "title": "InVision Studio",
+        "os_mac": "invisionstudio-mac",
+        "os_win": "invisionstudio-windows",
+        "img": "/assets/img/logo-invisionstudio"
+      },
+      {
+        "title": "Micro",
+        "os_mac": "miro-mac",
+        "os_win": "miro-windows",
+        "img": "/assets/img/logo-miro"
+      },
+      {
+        "title": "Micro",
+        "os_mac": "overflow-mac",
+        "os_win": "overflow-windows",
+        "img": "/assets/img/logo-overflow"
+      },
+      {
+        "title": "Protoio",
+        "os_mac": "protoio-mac",
+        "os_win": "protoio-windows",
+        "img": "/assets/img/logo-protoio"
+      },
+      {
+        "title": "Uxpin",
+        "os_mac": "uxpin-mac",
+        "os_win": "uxpin-windows",
+        "img": "/assets/img/logo-uxpin"
+      },
+      {
+        "title": "Veed",
+        "os_mac": "veed-mac",
+        "os_win": "veed-windows",
+        "img": "/assets/img/logo-veed"
+      },
+      {
+        "title": "Zeplin",
+        "os_mac": "zeplin-mac",
+        "os_win": "zeplin-windows",
+        "img": "/assets/img/logo-zeplin"
+      }
+    ]
+  }
+}
